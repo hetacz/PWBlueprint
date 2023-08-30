@@ -1,0 +1,18 @@
+{
+  "myUrl": "https://hetacz.github.io/learn/test",
+  "pl": {
+    "url": "/page_pl.html",
+    "h1": "Polski :)",
+    "paragraph": "Tekst bez bledow"
+  },
+  "de": {
+    "url": "/page_de.html",
+    "h1": "Ojcz :)",
+    "paragraph": "Text ohne Fehler"
+  },
+  "en": {
+    "url": "/page_en.html",
+    "h1": "English :)",
+    "paragraph": "Text in development"
+  }
+}

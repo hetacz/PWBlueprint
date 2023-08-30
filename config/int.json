@@ -1,0 +1,18 @@
+{
+  "myUrl": "https://hetacz.github.io/learn/int",
+  "pl": {
+    "url": "/page_pl.html",
+    "h1": "Polski :)",
+    "paragraph": "Tekst bez błędów"
+  },
+  "de": {
+    "url": "/page_de.html",
+    "h1": "Deutsch :)",
+    "paragraph": "Text ohne Fehler"
+  },
+  "en": {
+    "url": "/page_en.html",
+    "h1": "English :)",
+    "paragraph": "Text without errors"
+  }
+}

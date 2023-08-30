@@ -1,0 +1,21 @@
+{
+  "myUrl": "https://hetacz.github.io/learn/prod",
+  "pl": {
+    "url": "/page_pl.html",
+    "h1": "Polski :)",
+    "paragraph": "Tekst bez błędów",
+    "footer": "To jest stopka Proda."
+  },
+  "de": {
+    "url": "/page_de.html",
+    "h1": "Deutsch :)",
+    "paragraph": "Text ohne Fehler",
+    "footer": "Das ist Prod Footer"
+  },
+  "en": {
+    "url": "/page_en.html",
+    "h1": "English :)",
+    "paragraph": "Text without errors",
+    "footer": "This is Prod Footer"
+  }
+}
